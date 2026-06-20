@@ -93,18 +93,12 @@ python main.py
 - Mobile Application Support
 - Enhanced Security Features
 
-## Contributing
-
-Contributions are welcome. Feel free to fork this repository and submit pull requests.
-
 ## License
 
 This project is licensed under the MIT License.
 
 ## Author
 
-Developed by Your Name.
+Developed by Lavi rajput.
 
----
 
-⭐ If you find this project useful, please give it a star on GitHub.
